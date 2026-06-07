@@ -24,10 +24,10 @@ What this script does:
 
 How to use:
 
-1. Download or copy the script to your Debian system (e.g., as install_mmdvm-iq.sh).
-   Make the script executable:    chmod +x install_mmdvm.sh
+1. Download or copy the script to your Debian system (e.g., as install_mmdvmiq.sh).
+   Make the script executable:    chmod +x install_mmdvmiq.sh
 
-2. Run the script:    ./install_mmdvm.sh
+2. Run the script:    ./install_mmdvmiq.sh
 
 Once completed, all binaries and source codes will be available in the ~/mmdvm_build directory,
 ready for your specific .ini configuration files. Enjoy!
