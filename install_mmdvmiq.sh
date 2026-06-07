@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Martin OK4MD
 # Ukončit skript, pokud jakýkoliv příkaz selže
 set -e
 
